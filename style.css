@@ -73,3 +73,6 @@ nav a:hover{
     font-size: small;
     color: gray;
 }
+section a:hover{
+    color: rgb(89, 89, 233);
+}
